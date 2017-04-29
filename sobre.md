@@ -8,4 +8,14 @@ A Academia Boa Forma oferece musculação diariamente no bairro São Gerardo, Fo
 
 Tel: 85 32834773
 
-Instagram: @academiaboaforma.ce
+{% if site.instagram_username %}
+<div>
+  <ul class="social-media-list">
+    <li>
+      <a href="https://instagram.com/{{ site.instagram_username }}">
+        <i class="fa fa-instagram" aria-hidden="true"></i> Instagram
+      </a>
+    </li>
+  </ul>
+</div>
+{% endif %}
