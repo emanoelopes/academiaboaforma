@@ -4,18 +4,10 @@ title: Sobre
 permalink: /sobre/
 ---
 
-A Academia Boa Forma oferece musculação diariamente no bairro São Gerardo, Fortaleza, Ceará.
+Iniciamos nossas atividades em 1988 com natação para crianças. Em 2001 adquirimos máquinas de musculação e desde então oferecemos musculação de segunda a sábado.
 
-Tel: 85 32834773
+Nossa missão é trazer saúde e bem-estar para você através dos nossos serviços.
 
-{% if site.instagram_username %}
-<div>
-  <ul class="social-media-list">
-    <li>
-      <a href="https://instagram.com/{{ site.instagram_username }}">
-        <i class="fa fa-instagram" aria-hidden="true"></i> Instagram
-      </a>
-    </li>
-  </ul>
-</div>
-{% endif %}
+
+Acompanhe a Academia Boa Forma no [instagram](https://instagram.com/academiaboaforma.ce)
+

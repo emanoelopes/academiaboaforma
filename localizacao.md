@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Localização
-permalink: /ondefica/
+permalink: /localizacao/
 ---
 
 [Estamos localizados no bairro São Gerardo, Rua Gilberto Câmara, 987](https://www.google.com.br/maps/place/Academia+Boa+Forma/@-3.7831041,-38.5949856,12z/data=!4m8!1m2!2m1!1sacademia+boa+forma+fortaleza!3m4!1s0x7c74984793190a1:0x44e81a3123baa268!8m2!3d-3.728492!4d-38.5613589?hl=pt-BR)
