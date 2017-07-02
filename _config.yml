@@ -6,6 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 instagram_username: academiaboaforma.ce
+facebook_username: academiaboaforma.ce
 
 # Build settings
 markdown: kramdown
